@@ -20,8 +20,10 @@
   </a>
 </div>
 
+<div>
 ### :man_technologist: About Me :
 I am Deep Kumar Goenka, a passionate Coder from India, pursuing B.Tech in Information Technology.
+</div>
 - :desktop_computer: My knowledge of interests are in Artificial Intelligence and Machine Learning.
 
 - :telescope: I also contribute to both frontend and backend for building web applications.
