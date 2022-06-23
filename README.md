@@ -57,4 +57,4 @@ I am Deep Kumar Goenka, a passionate Coder from India, pursuing B.Tech in Inform
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=deepgoenka&theme=flag-india)](#)
 <br>
 <br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepgoenka)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepgoenka)](#)
