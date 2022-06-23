@@ -53,5 +53,3 @@ I am Deep Kumar Goenka, a passionate Coder from India, pursuing B.Tech in Inform
 <div>
   <h2>Stats</h2>
 </div>
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=deepgoenka)](https://git.io/streak-stats)
