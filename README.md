@@ -6,7 +6,7 @@
   <a href="mailto:deepgoenkamail@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="https://github.com/deepgoenka" target="_blank">
+  <a href="https://github.com/deepgoenka" {target="_blank"}>
     <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Github&logoColor=white" alt="Github Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/deep-kumar-goenka-441912216/" target="_blank">
