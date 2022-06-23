@@ -32,3 +32,7 @@ I am Deep Kumar Goenka, a passionate Coder from India, pursuing B.Tech in Inform
 - :seedling: Exploring new Technical Contents and ideas related to new technologies.
 
 - :zap: In my free time, I solve problems on LeetCode and read tech articles.
+
+<div>
+<h2>Languages and Tools :</h2>
+</div>
