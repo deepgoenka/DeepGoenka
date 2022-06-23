@@ -49,3 +49,8 @@ I am Deep Kumar Goenka, a passionate Coder from India, pursuing B.Tech in Inform
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"  title="BootStrap" alt="BootStrap" width="70" height="70"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="70" height="70"/>
 </div>
+
+<div>
+  <h2>Stats</h2>
+</div>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=deepgoenka&theme=dark&background=000000)](https://git.io/streak-stats)
