@@ -36,7 +36,7 @@ I am Deep Kumar Goenka, a passionate Coder from India, pursuing B.Tech in Inform
 <div>
 <h2>Languages and Tools :</h2>
 </div>
-<div width="70" height="70">
+<div width="10" height="10">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="70" height="70"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="70" height="70"/>&nbsp;
