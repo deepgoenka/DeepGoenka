@@ -3,16 +3,16 @@
 </div>
 
 <div id="badges">
-  <a href="mailto:deepgoenkamail@gmail.com" target="_blank">
+  <a href="mailto:deepgoenkamail@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="https://github.com/deepgoenka" {target="_blank"}>
+  <a href="https://github.com/deepgoenka">
     <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Github&logoColor=white" alt="Github Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/deep-kumar-goenka-441912216/" target="_blank">
+  <a href="https://www.linkedin.com/in/deep-kumar-goenka-441912216/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.instagram.com/invites/contact/?i=br3tfi19t2qc&utm_content=m8neqvu" target="_blank">
+  <a href="https://www.instagram.com/invites/contact/?i=br3tfi19t2qc&utm_content=m8neqvu">
     <img src="https://img.shields.io/badge/Instagram-orange?style=for-the-badge&logo=Instagram&logoColor=black" alt="Instagram Badge"/>
   </a>
 </div>
