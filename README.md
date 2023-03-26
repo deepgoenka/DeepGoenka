@@ -12,7 +12,7 @@
   <a href="https://github.com/deepgoenka">
     <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Github&logoColor=white" alt="Github Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/deep-kumar-goenka-441912216/">
+  <a href="https://www.linkedin.com/in/deepkumargoenka/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.instagram.com/invites/contact/?i=br3tfi19t2qc&utm_content=m8neqvu">
