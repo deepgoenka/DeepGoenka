@@ -43,7 +43,7 @@ I am Deep Kumar Goenka, a passionate Coder from India, pursuing B.Tech in Inform
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" height="60"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="60"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" height="60"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" alt="Django" height="60"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" height="60"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html/html-original.svg" alt="HTML" height="60"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css/css-original.svg" alt="CSS" height="60"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="BootStrap" height="60"/>&nbsp;
