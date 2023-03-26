@@ -18,6 +18,9 @@
   <a href="https://www.instagram.com/invites/contact/?i=br3tfi19t2qc&utm_content=m8neqvu">
     <img src="https://img.shields.io/badge/Instagram-orange?style=for-the-badge&logo=Instagram&logoColor=black" alt="Instagram Badge"/>
   </a>
+  <a href="https://www.facebook.com/profile.php?id=100082915457406&mibextid=ZbWKwL">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
 </div>
 
 <div>
