@@ -54,7 +54,7 @@ I am Deep Kumar Goenka, a passionate Coder from India, pursuing B.Tech in Inform
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" height="60"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" alt="MongoDB" height="60"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" alt="MySQL" height="60"/>
+  <img src="https://github.com/patrickpiccini/devicons/blob/main/icons/light/MySQL.svg" alt="MySQL" height="60"/>
 </div>
 
 <div>
