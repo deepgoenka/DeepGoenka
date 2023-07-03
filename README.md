@@ -55,6 +55,7 @@ I am Deep Kumar Goenka, a passionate Coder from India, pursuing B.Tech in Inform
   <img src="https://dz2cdn1.dzone.com/storage/temp/12434118-spring-boot-logo.png" alt="Spring Boot" height="60"/>
   <img src="https://cdn.iconscout.com/icon/free/png-256/free-mongodb-3629020-3030245.png" alt="MongoDB" height="60"/>
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" alt="MySQL" height="60"/>
+  <img src="https://w7.pngwing.com/pngs/166/342/png-transparent-flask-python-bottle-web-framework-web-application-flask-white-monochrome-shoe.png" alt="Flask" height="60"/>
 </div>
 
 <div>
