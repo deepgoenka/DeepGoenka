@@ -59,6 +59,7 @@ I am Deep Kumar Goenka, a passionate Coder from India, pursuing B.Tech in Inform
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" alt="MySQL" height="60"/>
   <img src="https://static-00.iconduck.com/assets.00/programming-language-flask-icon-2048x1826-wf5k5ugs.png" alt="Flask" height="60"/>
   <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.3c5441fc7a190fb1800d4a5c7f07ba4b1345a9c8.svg" alt="Tailwind CSS" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" alt="Streamlit" height="60"/>
 </div>
 
 <div>
