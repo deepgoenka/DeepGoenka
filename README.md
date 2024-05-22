@@ -24,7 +24,7 @@
 </div>
 
 <div>
-<h2> :man_technologist: About Me :</h2>
+<h2> :man_technologist: About Me</h2>
 </div>
 I am Deep Kumar Goenka, a passionate Coder from India, pursuing B.Tech in Information Technology.
 
@@ -39,7 +39,7 @@ I am Deep Kumar Goenka, a passionate Coder from India, pursuing B.Tech in Inform
 - :zap: In my free time, I solve problems on LeetCode and read tech articles.
 
 <div>
-<h2>Languages and Tools :</h2>
+<h2>Languages and Tools</h2>
 </div>
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="60">&nbsp;
