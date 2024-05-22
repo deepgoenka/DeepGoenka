@@ -1,4 +1,4 @@
-<div>
+<div style="text-align: center;">
   <h2>Hello World!<g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji></h2>
 </div>
 <img src="https://komarev.com/ghpvc/?username=deepgoenka&style=flat-square&color=blue" alt=""/>
@@ -28,9 +28,11 @@
 </div>
 I am Deep Kumar Goenka, a passionate Coder from India, pursuing B.Tech in Information Technology.
 
-- :desktop_computer: My knowledge of interests are in Artificial Intelligence and Machine Learning.
+- :desktop_computer: My knowledge of interests are in Artificial Intelligence, Machine Learning, and Deep Learning.
 
-- :telescope: I also contribute to both frontend and backend for building web applications.
+- :robot: Developing interests in LangChain and Prompt Engineering.
+  
+- :telescope: I also contribute to Full Stack Development.
 
 - :seedling: Exploring new Technical Contents and ideas related to new technologies.
 
